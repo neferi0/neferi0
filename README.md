@@ -4,8 +4,8 @@
 
 - <b> Deploying Honeypot through Microsoft Azure Cloud Environment </b>
   - [Honeypot Deployment: Creating Cloud Environment](https://github.com/neferi0/honeypot-deployment)
-  - 
-  - 
+  - [Honeypot Deployment: Deploying the Honeypot](https://github.com/neferi0/deploying-honeypot)
+    
 - <b>Created Secure Cloud Environment in AWS</b>
   - 
   - 
