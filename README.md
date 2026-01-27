@@ -7,7 +7,7 @@
   - [Honeypot Deployment: Deploying the Honeypot](https://github.com/neferi0/deploying-honeypot)
     
 - <b>Created Secure Cloud Environment in AWS</b>
-  - 
+  - [Creating Secure Private Cloud: Architecture Design](https://github.com/neferi0/cpm1-cloud-project)
   -
   -
   -
