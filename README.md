@@ -8,10 +8,10 @@
     
 - <b>Created Secure Cloud Environment in AWS</b>
   - [Creating Secure Private Cloud: Architecture Design](https://github.com/neferi0/cpm1-cloud-project)
-  -
-  -
-  -
-  -
+  - [Creating Secure Private Cloud: Security Groups](https://github.com/neferi0/cpm2-cloud-project)
+  - [Creating Secure Private Cloud: Configuring Storage](https://github.com/neferi0/cpm3-cloud-project)
+  - 
+  - 
 - <b>Creating Virtual Pentration Testing Environment</b>
   - 
   -
