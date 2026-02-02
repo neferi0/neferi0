@@ -10,8 +10,9 @@
   - [Creating Secure Private Cloud: Architecture Design](https://github.com/neferi0/cpm1-cloud-project)
   - [Creating Secure Private Cloud: Security Groups](https://github.com/neferi0/cpm2-cloud-project)
   - [Creating Secure Private Cloud: Configuring Storage](https://github.com/neferi0/cpm3-cloud-project)
-  - 
-  - 
+  - [Creating Secure Private Cloud: Implementing Monitoring](https://github.com/neferi0/cpm4-cloud-project)
+  - [Creating Secure Private Cloud: Testing and Tweaking](https://github.com/neferi0/cpm5-cloud-project/tree/main)
+  
 - <b>Creating Virtual Pentration Testing Environment</b>
   - 
   -
