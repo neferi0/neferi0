@@ -13,7 +13,7 @@
   - [Creating Secure Private Cloud: Implementing Monitoring](https://github.com/neferi0/cpm4-cloud-project)
   - [Creating Secure Private Cloud: Testing and Tweaking](https://github.com/neferi0/cpm5-cloud-project/tree/main)
   
-- <b>Creating Virtual Pentration Testing Environment</b>
+- <b>Pilot Microsoft Intune Deployment</b>
   - 
   -
   -
